@@ -2,7 +2,7 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1676927560197
+updated: 1676943358410
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
@@ -56,4 +56,10 @@ created: 1676509617468
     - Claud nos dio bastantes ideas sobre qué preguntas deberíamos hacerle al socioformador como qué documentación pueden proporcionarnos, así como qué contactos deberíamos conseguir.
 
 #### 20 - febrero - 2023
-* 
+* Actividad de la línea de la vida
+    - La clase en general fue una lección de empatía para con mis compañeros y comprender que, comprender que son individuos con trasfondos varios que llegaron a estar en mi clase por una gran multitud de razones, así como sus visiones y esperanzas para el futuro.
+
+* Clase de [QA](/SextoSemestre.Qualiy%20Assurance.md)
+    - Esta clase fue un refuerzo de muchas de las partes que hemos visto la semana pasada, desde una vista más en detallde del CMMI, hasta algunas otras metodologías que pueden ayudarnos como el ITIL. También algunos puntos a tener en cuenta en nuestro proyecto, tales como la lista de sugerencias que el profesor nos dejó.
+
+* Clase de RE con Claud
