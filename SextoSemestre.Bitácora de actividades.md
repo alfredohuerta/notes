@@ -2,7 +2,7 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1676943358410
+updated: 1677013956153
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
@@ -62,4 +62,9 @@ created: 1676509617468
 * Clase de [QA](/SextoSemestre.Qualiy%20Assurance.md)
     - Esta clase fue un refuerzo de muchas de las partes que hemos visto la semana pasada, desde una vista más en detallde del CMMI, hasta algunas otras metodologías que pueden ayudarnos como el ITIL. También algunos puntos a tener en cuenta en nuestro proyecto, tales como la lista de sugerencias que el profesor nos dejó.
 
-* Clase de RE con Claud
+* Clase de [RE](/SextoSemestre.Requirements%20Engineering.md) con Claud
+
+#### 21 - febrero - 2023
+* Lectura y [resumen](/SextoSemestre.RAM.md) de [documentos brindados por RAM](https://drive.google.com/drive/u/1/folders/1fAwsB1_l0sCynAklk9ZsymYF6MaQq9e)
+
+* Clase con Lalo sobre [equipos](/SextoSemestre.Diciplined%20Agile.md)
