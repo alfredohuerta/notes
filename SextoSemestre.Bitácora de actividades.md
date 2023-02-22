@@ -2,7 +2,7 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1677013956153
+updated: 1677028889463
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
@@ -68,3 +68,7 @@ created: 1676509617468
 * Lectura y [resumen](/SextoSemestre.RAM.md) de [documentos brindados por RAM](https://drive.google.com/drive/u/1/folders/1fAwsB1_l0sCynAklk9ZsymYF6MaQq9e)
 
 * Clase con Lalo sobre [equipos](/SextoSemestre.Diciplined%20Agile.md)
+
+* Junta de equipo del proyecto para [RAM](/SextoSemestre.Minuta%20RAM%2021%20de%20febrero.md)
+
+* Clase con Ray sobre el [CMMI](/SextoSemestre.CMMI%20con%20Ray.md)

@@ -2,7 +2,7 @@
 id: hnz6tz11j4gq5clxicx6s0j
 title: Minuta RAM 21 de febrero
 desc: ''
-updated: 1677027926814
+updated: 1677029500195
 created: 1677024455806
 ---
 ## Resumen
@@ -69,9 +69,11 @@ A RAM le encanta las estadísticas
 
 Alex opina que a necesidad nuclear es ayudarlos a identificar las personas elegibles a los bonos y quiénes son los que necesitan ayuda en cursos y objetivos
 
-Muñoz señala que el mayor peligro del proyecto es que los agentes no quieran usar la aplicación, debido a que su funcionamiento dependería de la información alimentada.
+Muñoz señala que el mayor peligro del proyecto es que los agentes no usen la aplicación, debido a que su funcionamiento dependería de la información alimentada, por lo que habría que encontrar una forma de incentivarlos a actualizar sus métricas
 
 Uno de los mayores retos sería delimitar la escala del proyecto, debido a que los bonos son una ciencia en sí misma
+
+Alfredo propone que el problema de RAM es que, a pesar de que cuentan con los procesos para analizar y calificar la evolución de sus agentes, estos procesos se tienen que aplicar lentamente a cada uno de los agentes, por lo que no cuentan con una forma fácil de poderlo aplicar a toda su plantilla. La necesidad sería desarrollar un proyecto donde la gerencia de RAM pueda identificar quiénes necesitan apoyo, qué tipo de apoyo o si vale la pena dar este apoyo y hacerlo a simple vista.
 
 ## Observaciones
 
