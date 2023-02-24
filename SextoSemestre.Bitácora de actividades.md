@@ -2,7 +2,7 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1677028889463
+updated: 1677193119042
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
@@ -63,12 +63,33 @@ created: 1676509617468
     - Esta clase fue un refuerzo de muchas de las partes que hemos visto la semana pasada, desde una vista más en detallde del CMMI, hasta algunas otras metodologías que pueden ayudarnos como el ITIL. También algunos puntos a tener en cuenta en nuestro proyecto, tales como la lista de sugerencias que el profesor nos dejó.
 
 * Clase de [RE](/SextoSemestre.Requirements%20Engineering.md) con Claud
+    - Durante la clase Claud nos dio varios consejos de cómo identificar los requisitos de nuestro proyecto, como investigar bien quiénes son nuestros stakehoklders, priorizar los requisitos que son más necesarios para el proyecto, etc. Estonos sería de gran ayuda para llevar a cabo la definición inicial de nuestro MVP para antes de presentarlo con el Socio Formador.
 
 #### 21 - febrero - 2023
 * Lectura y [resumen](/SextoSemestre.RAM.md) de [documentos brindados por RAM](https://drive.google.com/drive/u/1/folders/1fAwsB1_l0sCynAklk9ZsymYF6MaQq9e)
 
-* Clase con Lalo sobre [equipos](/SextoSemestre.Diciplined%20Agile.md)
+* Clase con Lalo sobre equipos
 
 * Junta de equipo del proyecto para [RAM](/SextoSemestre.Minuta%20RAM%2021%20de%20febrero.md)
 
 * Clase con Ray sobre el [CMMI](/SextoSemestre.CMMI%20con%20Ray.md)
+    - La clase nos ofreció una guia rápida de cómo comenzar a leer el cmmi y qué áreas nos podrían interesar leer primero. Esto me ha ayudado a encontrar una forma de priorizar mis lecturas del libro y no sentir que estoy dejando de lado información que sería útil ahora durante mis lecturas.
+
+#### 22 - febrero - 2023
+
+* [Clase de ética](https://experiencia21.tec.mx/courses/359675/discussion_topics/2137937)
+    - La actividad de explicar nuestros casos a la clase fue una bastante educativa en especial en que nos permitió saber las distintas opiniones de nuestros compañeros respecto a nuestras responsabilidades como personas que crean y desarrollan software. Hay algunos que optaban por una educación del usuario y otros que señalaban la responsabilidad del usuario. Si bien ambos enfoques los considero correctos, fue interesante saber la visión de mis compañeros, en especial porque esta reflejará cómo reaccionarían a apartados como el de seguridad y permisos de la aplicación.
+
+* Clase con el Padrino sobre [cómo comunicarnos con el socio formador](/SextoSemestre.ClasePMBOK.md)
+    - Lo que más me llevo de la clase con el Padrino es los tipos de formas de revisar que nuestros textos son los adecuados para comunicarnos con nuestro público objetivo
+
+* [Dinámica de equipo](/SextoSemestre.Minuta%20Din%C3%A1mica%20de%20equipo%2022%20de%20febrero.md)
+    - Una de las cosas que me di cuenta es que todos los 
+
+* Clase con Claud sobre [requerimientos de software](/SextoSemestre.Requirements.md)
+
+#### 23 - febrero -2023
+
+* Clase con Lalo sobre el [Way of Work (WoW)](/SextoSemestre.Way%20Of%20Work.md
+
+* Clase con Abraham sobre project management

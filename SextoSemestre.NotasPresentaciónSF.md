@@ -2,7 +2,7 @@
 id: u1vw4go4yb2cfwlxqd2txgz
 title: NotasPresentaciónSF
 desc: ''
-updated: 1676752147807
+updated: 1677257247037
 created: 1676502776911
 ---
 
@@ -27,14 +27,21 @@ CUenta con tres dominios para usar en la empresa
 Buscan una página web que le de rastrrabilidad de sus operaciones 
 
 ## Características del proyecto
-    * inventario de propiedades (cuentecon buscador, filtros de búsquedas, puedan ver fotos, videos de yt, descripción u resumen, que se puedan compartir las propiedades, dar megusta y guardase las proupedades que se quieran)
-    * rastreabilidad de su opperaciójn
-    * integrar un expediente
-    * reportes de las métricas de la propiedad
-    * EL proyecto necesita tener conección con redes socuales
-    * Notificiacones de emal o sms
-    * página de sugerencias
-    * Da su "compromiso" al 100% (no se ve confiable)
+* inventario de propiedades (cuentecon buscador, filtros de búsquedas, puedan ver fotos, videos de yt, descripción u resumen, que se puedan compartir las propiedades, dar megusta y guardase las proupedades que se quieran)
+
+* rastreabilidad de su opperaciójn
+
+* integrar un expediente
+
+* reportes de las métricas de la propiedad
+
+* EL proyecto necesita tener conección con redes socuales
+
+* Notificiacones de emal o sms
+
+* página de sugerencias
+
+* Da su "compromiso" al 100% (no se ve confiable)
 
 ## Notas del SF
 Actualmente la publicidad de los inmuebles están en portales poco distribuídos, busca no depender de terceros para mejorar su alcance

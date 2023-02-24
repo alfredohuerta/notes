@@ -2,7 +2,7 @@
 id: tfjr9r5yd1anqxutvbim8d7
 title: CMMI con Ray
 desc: ''
-updated: 1677030831939
+updated: 1677180983559
 created: 1677028148080
 ---
 # CMMI (Capability Madurity Model Integration)
@@ -18,6 +18,6 @@ Para encontrar el alcance (atender la necesidad/problema del socio en el tiempo 
 
 ## Problemas comunes
 
-* Ver las áreas como una checklist a llenar y no ver las conecciones que estas tienen.
+* Ver las áreas como una checklist a llenar y no ver las conexiones que estas tienen.
 
 * No comenzar con PP, REQM y PMC
