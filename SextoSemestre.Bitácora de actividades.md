@@ -90,6 +90,6 @@ created: 1676509617468
 
 #### 23 - febrero -2023
 
-* Clase con Lalo sobre el [Way of Work (WoW)](/SextoSemestre.Way%20Of%20Work.md
+* Clase con Lalo sobre el [Way of Work (WoW)](/SextoSemestre.Way%20Of%20Work.md)
 
 * Clase con Abraham sobre project management
