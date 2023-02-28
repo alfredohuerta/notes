@@ -2,7 +2,7 @@
 id: z49vgda8nvghokt47wgwax4
 title: Roles y Responsabilidades
 desc: ''
-updated: 1677543981872
+updated: 1677547271944
 created: 1677539225062
 ---
 Rol | Responsabilidad | Liderazgo
