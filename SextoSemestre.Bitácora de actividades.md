@@ -2,7 +2,7 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1677193119042
+updated: 1677545616089
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
@@ -55,6 +55,8 @@ created: 1676509617468
 * Clase con Claud sobre stakeholders y cómo generar los requisitos, [continuación de la clase pasada](/SextoSemestre.Requirements%20Engineering.md)
     - Claud nos dio bastantes ideas sobre qué preguntas deberíamos hacerle al socioformador como qué documentación pueden proporcionarnos, así como qué contactos deberíamos conseguir.
 
+---
+
 #### 20 - febrero - 2023
 * Actividad de la línea de la vida
     - La clase en general fue una lección de empatía para con mis compañeros y comprender que, comprender que son individuos con trasfondos varios que llegaron a estar en mi clase por una gran multitud de razones, así como sus visiones y esperanzas para el futuro.
@@ -90,6 +92,23 @@ created: 1676509617468
 
 #### 23 - febrero -2023
 
-* Clase con Lalo sobre el [Way of Work (WoW)](/SextoSemestre.Way%20Of%20Work.md
+* Clase con Lalo sobre el [Way of Work (WoW)](/SextoSemestre.Way%20Of%20Work.md)
 
 * Clase con Abraham sobre project management
+
+* Migración de minutas al Notion del equipo
+
+#### 24 - febrero - 2023
+* Clase con Alex y Denisse sobre [estrategias de desarrollo](/SextoSemestre.Estrategia%20de%20Desarrollo.md) y [Celebration Grid](/SextoSemestre.Retrospectiva%2024%20de%20febrero.md)
+    - Lo que más me llevo de la clase fue la parte de la retrospectiva donde pude conocer un poco más sobre cómo mis compañeros se sienten respecto a nuestro desempeño a lo largo de las semanas, en especial sobre cómo se sienten respecto a las actividades desarrolladas.
+
+* [Análisis de las wikis](/SextoSemestre.Otras%20Wikis.md) de otros proyectos para ver qué podemos contribuir a la nuestra.
+    - Una de las constantes que pude ver en las wikis que más me agradaron (en cuestión de qué tan fácil fue leerla) es que podía encontrar la información que yo considero relevante a simple vista nada más entrar: procesos, proyectos, documentación.
+
+---
+
+#### 27 - febrero - 2023
+* Clase con [Lalo sobre software](/SextoSemestre.Tipos%20de%20Software.md)
+
+* Clase con Carlos sobre [Roles y responsabilidades](/SextoSemestre.Roles%20y%20Responsabilidades.md)
+    - Una de las cosas que más me llevo es que, si bien los procesos son una parte necesaria de todo desarrollo y organización, es necesario llevarlos y construirlos con conciencia y mesura, esto debido a que son un apoyo, no un lastre para nuestra organización.
