@@ -2,7 +2,7 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1677545616089
+updated: 1677705143928
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
@@ -112,3 +112,9 @@ created: 1676509617468
 
 * Clase con Carlos sobre [Roles y responsabilidades](/SextoSemestre.Roles%20y%20Responsabilidades.md)
     - Una de las cosas que más me llevo es que, si bien los procesos son una parte necesaria de todo desarrollo y organización, es necesario llevarlos y construirlos con conciencia y mesura, esto debido a que son un apoyo, no un lastre para nuestra organización.
+
+#### 28 - febrero - 2023
+* Clase con Lalo sobre [procesos](/SextoSemestre.Clase.md)
+
+* Clase con Ray sobre el CMMI
+    - Esta clase fue más que nada una resolución de dudas resepecto al CMMI, lo que nos permitió saber un poco más sobre cómo pueden salir mal las cosas en caso de que no implementemos las guías, así como 
