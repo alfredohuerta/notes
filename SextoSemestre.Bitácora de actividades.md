@@ -2,19 +2,10 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1677705143928
+updated: 1677803593461
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
-
-### To-do list
-- [ ] Revisar muletillas escritas que tenga en previos textos escritos
-
-- [ ] Preguntar sobre las distintas aplicaciones en el proyecto de los tipos de administración
-
-- [ ] Pedir retroalimentación del correo a los SF
-
-- [ ] Pedir ayuda a Alex y Denisse sobre cómo implementar SonarQube en el repo
 
 - - -
 ### Actividaes
@@ -117,4 +108,17 @@ created: 1676509617468
 * Clase con Lalo sobre [procesos](/SextoSemestre.Clase.md)
 
 * Clase con Ray sobre el CMMI
-    - Esta clase fue más que nada una resolución de dudas resepecto al CMMI, lo que nos permitió saber un poco más sobre cómo pueden salir mal las cosas en caso de que no implementemos las guías, así como 
+    - Esta clase fue más que nada una resolución de dudas resepecto al CMMI, lo que nos permitió saber un poco más sobre cómo pueden salir mal las cosas en caso de que no implementemos las guías, así como una guía comprensible de cómo acreditar las competencias del CMMI.
+
+#### 1 - marzo - 2023
+* Clase de ética con Caro sobre [CARE](https://experiencia21.tec.mx/courses/359675/assignments/11782574/submissions/145443)
+    - En esta clase pude conocer un poco más sobre la forma en la que tienen mis compañeros de relacionarse con las respuestas a dilemas éticas y su razonamiento tras estos
+
+* Clase con el Padrino
+    - Esta clase fue mas que nada un momento de retroalimentación donde pudimos resolver algunas dudas que teníamos con respecto a nuestros procesos de redacción. En mi caso una de las dudas que me resolvieron respecto a cómo poder resumir mejor los textos que leo.
+
+#### 2 - marzo - 2023
+* Clase con Lalo sobre [documentación](/SextoSemestre.Proceso%20de%20Documentaci%C3%B3n.md)
+    - Aunque al mencionarlo me pareció bastante obvio, conocer que hay distintos tipos de documentación y procedimientos a la hora de codificar y no dejándolo todo para al final. Me gustaría proponerle a mi equipo que hagamos la documentación después de haber codificado un requisito.
+
+* 
