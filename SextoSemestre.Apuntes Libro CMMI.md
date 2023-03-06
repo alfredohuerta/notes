@@ -2,9 +2,38 @@
 id: 25za8mu9p4gyib06u0a5j6q
 title: Apuntes Libro CMMI
 desc: ''
-updated: 1678079298620
+updated: 1678091839595
 created: 1676647824808
 ---
+# Índice
+[Primera parte: Acerca de CMMI para desarrollo](#primera-parte-acerca-de-cmmi-para-desarrollo)
+* [Capítulo 2: Componentes del área de procesos](#capítulo-2-componentes-del-área-de-procesos)
+    - [Componentes requeridos, esperados e informativos](#componentes-requeridos-esperados-e-informativos)
+
+    - [Componentes asociados con la Segunda Parte](#componentes-asociados-con-la-segunda-parte)
+
+    - [Componentes informativos de soporte](#componentes-informativos-de-soporte)
+
+* [Capítulo 3: Uniéndolo todo](#capítulo-3-uniéndolo-todo)
+    - [Comprendiendo los niveles de capacidad](#comprendiendo-los-niveles-de-capacidad)
+
+    - [Áreas de proceso](#áreas-de-proceso)
+
+* [Capítulo 4: Relaciones entre áreas de proceso](#capítulo-4-relaciones-entre-áreas-de-proceso)
+    - [Categorías de las áreas CMMI](#categorías-de-las-áreas-cmmi)
+
+    - [Gestión de procesos](#gestión-de-procesos)
+
+    - [Gestión de proyectos](#gestión-de-proyectos)
+
+    - [Ingeniería](#ingeniería)
+
+    - [Soporte](#soporte)
+
+## [Segunda parte: Metas genéricas y prácticas genéricas, y las áreas de proceso](#segunda-parte-metas-genéricas-y-prácticas-genéricas-y-las-áreas-de-proceso) _WIP_
+
+---
+
 # Primera parte: Acerca de CMMI para desarrollo
 ## Capítulo 2: Componentes del área de procesos
 ### Componentes requeridos, esperados e informativos
@@ -134,7 +163,7 @@ Los procesos se trabajan como **instancias aisladas** de sus productos y otros p
 Nivel 1 | Realizar los procesos
 ----|----
 Nivel 2 | Se planifica y monitoriza el cumplimiento de los procesos.
-Nivel 3 | Los procesos se definen y aplican de forma más consistente debido a que hay procesos estandar que se adaptan en la organización.
+Nivel 3 | Los procesos se definen y aplican de forma más consistente debido a que hay procesos estándar que se adaptan en la organización.
 
 #### Niveles de madurez
 ##### Nivel de madurez VS Nivel de capacidad
@@ -150,7 +179,7 @@ Nivel 1 (Inicial) | Nivel 2 (Gestionado) | Nivel 3 (Definido)
 No proporciona un entorno estable para dar soporte a los procesos | Garantiza que en los proyectos los procesos se planifican y ejecutan de acuerdo con las políticas | Los procesos están bien caracterizados y comprendidos
 Depende de que unos pocos salven el proyecto | Emplean personal cualificado y con recursos ara producir resultados | Se describen en estándares, procedimientos, herramientas y métodos
 Producen productos y servicios que exceden el presupuesto y los plazos planificados | Se involucran los interesados relevantes | El conjunto de procesos estándar de la organización se establece y mejora a lo largo del tiempo 
-Se comprometen en exceso | Se monitorizan, controlan y revisan los procesos | Los procesos estandar se utilizan para establecer la integridad de toda la organización 
+Se comprometen en exceso | Se monitorizan, controlan y revisan los procesos | Los procesos estándar se utilizan para establecer la integridad de toda la organización 
 Abandonan los procesos en momentos de crisis | Se evalúa cuánto se apegan a sus descripciones de proceso | Los proyectos personalizan los procesos estándar a través de guías de adaptación 
 No repiten los éxitos | Son diciplinados y aseguran que la prácticas se mantienen en momentos de presión | Se usan como base procedimientos, guías, etc. estándar que se modifican para cada proyecto de acuerdo a sus necesidades
 -- | Los proyectos se realizan y gestionan de acuerdo a sus planes documentados | Los procesos se gestionan a través de cómo interactúan los unos con los otros, así como con las distintas medidas, productos de trabajo y servicios
@@ -163,3 +192,134 @@ No repiten los éxitos | Son diciplinados y aseguran que la prácticas se mantie
 ![](/assets/CMMI/AreasCMMI.png)
 
 ## Capítulo 4: Relaciones entre áreas de proceso
+### Categorías de las áreas CMMI
+![](/assets/CMMI/AreasCMMICategoria.png)
+### Gestión de procesos
+Cubren las actividades relativas a la **definición, planificación, despliegue, implementación, monitorización, control, evaluación, medición y mejora de procesos**
+
+#### Áreas relacionadas
+* Definición de Procesos de la Organización (OPD).
+
+* Enfoque en Procesos de la Organización (OPF).
+
+* Gestión del Rendimiento de la Organización (OPM).
+
+* Rendimiento de Procesos de la Organización (OPP).
+
+* Formación en la Organización (OT).
+
+##### Áreas de proceso básicas
+Proporcionan la **capacidad de documentar y compartir las buenas prácticas**, los activos de proceso de la organización y el aprendizaje en toda la organización
+
+Área | Resumen
+----|----
+Enfoque en Procesos de la Organización | Planificar, implementar y desplehar las mejoras de procesos basado en sus fortalezas y debilidades.
+Definición de Procesos de la Organización | Establece y mentiene el conjunto de procesos estándar de la organización, entorno de trabajo y otros activos como guías de adaptación, datos y descripciones
+Formación en la Organización | Identifica las necesidades estratégicas y tácticas de formación en la organización que son comunes a los proyectos y grupos de soporte
+
+##### Áreas de proceso avanzadas
+Proporcionan a la organización una capacidad mejorada para lograr sus objetivos cuantitativos de calidad y rendimiento de procesos. Cada área depende de la capacidad para desarrollar y desplegar procesos activos de soporte
+
+Área | Resumen
+----|----
+Rendimiento de Procesos de la Organización | Infiere objetivos cuantitativos para la calidad y el rendimiento del proceso, con esto se puede comprender cuantitativamente la calidad del producto, servicio y rendimiento de procesos estándar.
+Gestión del Rendimiento de la Organización | Analiza las líneas base y modelos de rendimiento d elos procesos para comprender la capacidad de la organización e inferir la calidad de sus objetivos y rendimiento de procesos para el despliege de mejoras
+
+### Gestión de proyectos
+Cubren las actividades de gestión del proyecto relacionadas con la **planificación, monitorización y control del proyecto**
+
+#### Áreas
+* Gestión Integrada del Proyecto (IPM).
+
+* Monitorización y Control del Proyecto (PMC).
+
+* Planificación del Proyecto (PP).
+
+* Gestión Cuantitativa del Proyecto (QPM).
+
+* Gestión de Requisitos (REQM).
+
+* Gestión de Riesgos (RSKM).
+
+* Gestión de Acuerdos con Proveedores (SAM).
+
+##### Áreas de proceso básicas
+Actividades relacionadas con el **establecimiento y mantenimineto del plan del proyecto, compromisos; monitorización del progreso frente al plan, toma de acciones correctivas y gestión de acuerdos con proveedores**
+
+Área | Resumen
+----|----
+Planificación del Proyecto | Desarrollo del plan de proyecto, involucramiento de las partes interesadas, obtención del compromiso con el plan y su mantenimiento.
+Monitorización y Control del Proyecto | Monitorización de la evolución del proyecto, control de revisiones y toma de acciones correctivas en caso de desvío de las proyecciones.
+Gestión de Requisitos | Actividades para obtener y controlar los cambios a los requisitos y asegurar que otros planes y datos se mantengan actualizados. Mantiene la trazabilidad de los requisitos del cliente, producto y sus componentes.
+Gestión de Acuerdos con Proveedores | Adquirir las partes del trabajo que realizan proveedores. Las fuentes se ubican de forma proactiva, así como se sigue su desempeño según lo acordado y modifica si es necesario.
+
+##### Áreas de proceso avanzadas
+Actividades como **establecer un proceso definido estándar**, el **entorno de trabajo** del proyecto, **coordinar y colaborar** con las partes interesantes, **crear y mantener los equipos para la dirección** de los proyctos, **gestionar el proyecto y sus riesgos**. Depende de la **capacidad para planificar, monitorizar y controlar el proyecto**.
+
+Área | Resumen
+----|----
+Gestión Integrada del Proyecto | Establece y mantiene el proceso definido del proyecto que es adaptado a partir de los procesos estándar
+Gestión de Riesgos | Gestiona los riesgos de forma contínua y con visión a futuro, incluye la identificación de los parámetros de riesgo, evaluaciones y su mitigación.
+Gestión Cuantitativa del Proyecto | Establece objetivos para la calidad y el rendimiento del proceso, lo redacta para su complimiento y gestiona cuantitativamente el proyecto. Los objetivos se basan en lo establecido por el cliente y la organización.
+
+### Ingeniería
+Actividades de desarrollo y mantenimiento. Soportan una estrategia de mejorar de procesos orientada al producto, dirigida a los obketivos de negocio esenciales; evitnado la mentalidad compartimentada de la organización.
+
+#### Áreas
+* Integración del Producto (PI).
+
+* Desarrollo de Requisitos (RD).
+
+* Solución Técnica (TS).
+
+* Validación (VAL).
+
+* Verificación (VER).
+
+Área | Resumen
+----|----
+Desarrollo de Requisitos | Identifica las necesidades del cliente y las transforma en requisitos de producto, los analiza y genera una solución de alto nivel.
+Solución Técnica | Convierte los requisitos en la arquitectura del producto, los diseños y los componentes del producto. Desarrolla los paquetes de datos técnicos
+Integración del Producto | Planea e integra los componentes del producto y se verifican las interfaces para asegurar que cumplen con el área de Desarrollo de Requisitos.
+Verificación | Asegura que los productos de trabajo cumplen los requisitos especificados. Selecciona los productos y métodos que se usarán; empieza con la verificación de componentes de producto y (normalmente), termina con la verificación del producto ensamblado.
+Validación | Valida de manera incremental los productos frente a las necesidades del cliente. Puede ser en un entorno operacional o simulado y es necesario el involucramiento del cliente.
+
+#### Recursión e iteración de los procesos de Ingeniería
+Recursión | Iteración
+----|----
+Cuando un proceso se aplica a los niveles sucesivos de elementos del sistema dentro de una estructura del sistema. Los resultados de una aplicación en un nivel se usan de entrada para el siguiente en la estrucura del sistema | Sucede cuando los procesos se repiten en el mismo nivel del sistema. La nueva información se crea por la implementación de un proceso que realimenta dicha información a un proceso relacionado. Esto plantea cuestiones que deben ser resueltas antes de finalizar los procesos.
+
+### Soporte
+Cubren las actividades que dan **soporte al desarrollo y mantenimiento del producto**. Abordan procesos que se usan en la **realización de otros procesos**. Están **dirigidos hacia al desarrollo** y pueden **abordar los procesos que se aplican más generalmente**.
+
+#### Áreas
+* Análisis Causal y Resolución (CAR).
+
+* Gestión de Configuración (CM).
+
+* Análisis de Decisiones y Resolución (DAR).
+
+* Medición y Análisis (MA).
+
+* Aseguramiento de la Calidad del Proceso y del Producto (PPQA).
+
+##### Áreas de proceso básicas de Soporte
+Tratan las **funciones de soporte fundamentales que usan todas las otras áreas de proceso**. Aunque todas las áreas de proceso de Soporte **usan como entrada otras áreas**, las áreas básicas de Soporte **proporcionan funciones que ayudan a implementar prácticas genéricas**.
+
+Área | Resumen
+----|----
+Medición y Análisis | Proporciona **prácticas específicas que guían** a los proyectos y organizaciones, **alineando las necesidades y objetivos de medición**. Los resultados se usan para **tomar decisiones fundamentadas** y toma de **acciones correctivas**.
+Aseguramiento de la Calidad del Proceso y del Producto | Evalua objetivamente los procesos, productos y servicios frente a las descripciones de procesos estándares y procedimientos aplicables.
+Gestión de Configuración | Establece y mantien la integridad de los productos de trabajo, usnado la identificación de la configuración, informes de estado y las auditorías de la misma. 
+
+##### Áreas de proceso avanzadas de Soporte
+Ofrecen soporte mejorado, ase apoya en las entradas o prácticas de otras áreas de proceso.
+
+Área | Resumen
+----|----
+Análisis Causal y Resolución | Identifican las causas de los resultados seleccionados y toman acciones para prevenir resultados negativos a futuro o consolidad los positivos. 
+Análisis de Decisiones y Resolución | Determina qué cuestiones deberían estar sujetas a un procesos de evaluación formal.
+
+---
+
+# Segunda Parte: Metas genéricas y prácticas genéricas, y las áreas de proceso
