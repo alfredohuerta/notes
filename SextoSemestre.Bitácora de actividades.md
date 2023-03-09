@@ -2,7 +2,7 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1677803593461
+updated: 1678328887813
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
@@ -121,4 +121,18 @@ created: 1676509617468
 * Clase con Lalo sobre [documentación](/SextoSemestre.Proceso%20de%20Documentaci%C3%B3n.md)
     - Aunque al mencionarlo me pareció bastante obvio, conocer que hay distintos tipos de documentación y procedimientos a la hora de codificar y no dejándolo todo para al final. Me gustaría proponerle a mi equipo que hagamos la documentación después de haber codificado un requisito.
 
-* 
+#### 6 - marzo - 2023
+* Clase con Lalo sobre [resolución de conflictos](/SextoSemestre.Resolucion%20de%20conflictos.md)
+    - Esta clase fue de gran ayuda para cómo lidiar con algunos asuntos pendiente dentro del grupo. Además de que nos planteó la existencia de algunas partes no vistas de nuestras dinámicas como departamentos
+
+* Clase con Carlos sobre [Metas](/SextoSemestre.Metas%20de%20departamento.md)
+
+* Junta de RAM sobre asignación de complejidad de [requisitos funcionales](https://docs.google.com/spreadsheets/d/1ijuDjWE1UxtgRoeekSNPiPbB5AByjpyzYiSnwvLzQ4Q/edit#gid=1894978090)
+    - Durante la junta pude percatarme de lo mucho que he evolucionado en mis concepciones sobre el desarrollo. La mayoría de mis propuestas de complejidad estuvieron basadas en previas experiencias en otros proyectos de la carrera, así como mis experiencias en mi trabajo. Elementos que antes habría dicho que tendrían un alto nivel de complejidad como la visualización de métricas, me parecen más sencillos en relación a otros elementos que historicamente me han causado horas de desvelos como el RBAC y reconocer que podría no ser tan fácil como suena implementar funciones que nunca antes había hecho.
+
+* Entrega de [Resumen CMMI](/SextoSemestre.Apuntes%20Libro%20CMMI.md) al grupo.
+    - Desde el inicio del mes estuve trabajando en un resumen comprensible del libro del CMMI en mis tiempos libres. Si bien al inicio símplemente planeaba leer el libro y no resumir nada; decidí iniciar el resumen para afianzar mis conocimientos del libro y también decidí compartir el resumen con mis compañeros para que tuvieran un apoyo en caso de tener que repasar algunos datos. Uno de los conocimientos más importantes que tuve del proceso es sobre cómo, aunque al inicio cada área del CMMI parece como una entidad aparte de la otra, en realidad son un sistema interconectado de prácticas que nos permite alimentar nuestros procesos y cómo la diciplina es fundamental para dar seguimiento a los procesos, porque de lo contrario los mismos caerían en cadena.
+
+#### 8 - marzo - 2023
+* Configuración de dependencias del repositorio de RAM
+    - Si bien antes he configurado otros repositorios para uso personal, en esta ocasión con ayuda del Arquitechture Owner Ian estuvimos unas horas trabajando en la configuración del linter, recoil, prettier y tailwind. Fue una experiencia educativa, las reglas del linter fueron una de las cosas más retadoras, pero al final aprendí a calibrar las herramientas que considero son básicas para cualquier desarrollo de calidad. Así mismo, conocí la existencia de algunos estándares de codificación como el de Airbnb.
