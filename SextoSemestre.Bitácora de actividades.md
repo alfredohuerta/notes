@@ -2,7 +2,7 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1678328887813
+updated: 1678471066746
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
@@ -136,3 +136,7 @@ created: 1676509617468
 #### 8 - marzo - 2023
 * Configuración de dependencias del repositorio de RAM
     - Si bien antes he configurado otros repositorios para uso personal, en esta ocasión con ayuda del Arquitechture Owner Ian estuvimos unas horas trabajando en la configuración del linter, recoil, prettier y tailwind. Fue una experiencia educativa, las reglas del linter fueron una de las cosas más retadoras, pero al final aprendí a calibrar las herramientas que considero son básicas para cualquier desarrollo de calidad. Así mismo, conocí la existencia de algunos estándares de codificación como el de Airbnb.
+
+#### 9 - marzo - 2023
+* Desarrollo de la matriz de riesgos y guía de uso.
+    - En mi trabajo contamos con una matriz similar y me ha tocado llenar una similar. Sin embargo, esa matriz ya estaba establecida en los procesos de la empresa, por lo que apoyar en el diseño y llenado de la matriz fue una experiencia que no había vivido antes. En especial darme cuenta de que, si bien la matriz que usamos en la empresa es similar a la del grupo en un nivel fundamental, ambas cambian en ciertos aspectos para adecuarse a las estructuras de departamento o la presencia de otros roles.
