@@ -2,10 +2,12 @@
 id: nj6bh6tngt5a0cjdcd71chn
 title: Bitácora de actividades
 desc: ''
-updated: 1678471066746
+updated: 1678473291562
 created: 1676509617468
 ---
 # [Malla de Competencias](https://docs.google.com/spreadsheets/d/1nmvoQtUGO_M0IZcb4D5WcgCSOJuYc3m-qrH3JYNFXH0/edit)
+
+# [Evidencias y reflexión del primer periodo](/SextoSemestre.Reflexi%C3%B3n%20y%20evidencias%20Periodo%201.md)
 
 - - -
 ### Actividaes
