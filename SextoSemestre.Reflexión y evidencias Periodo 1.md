@@ -2,7 +2,7 @@
 id: e3ltz9jf8dt1002vgx3ad5y
 title: Reflexión y evidencias Periodo 1
 desc: 'Alumno Erick Alfredo García Huerta - A01708119'
-updated: 1678667391096
+updated: 1678667447769
 created: 1678471106321
 ---
 ## Erick Alfredo García Huerta - A01708119
@@ -70,7 +70,7 @@ Otra de mis actividades escritas es la del resumen del CMMI que hice para mis co
 ## Evidencias de Lenguaje escrito
  Evidencia | Justificación
  ----|----
- [Minutas de junta]((https://quilted-kryptops-ea6.notion.site/Minutas-Departamentales-8d810c8e772248e3aed9f8e60ffad3e7)) | Las minutas se volvieron una herramienta de comunicar nuestras juntas con nuestros compañeros que no pueden estar presentes, están escritas con el objetivo de ser fáciles y rápidas de leer, además de que en caso de que uno necesite encontrar una información específica, se pueda hacer rápido
+ [Minutas de junta](https://quilted-kryptops-ea6.notion.site/Minutas-Departamentales-8d810c8e772248e3aed9f8e60ffad3e7) | Las minutas se volvieron una herramienta de comunicar nuestras juntas con nuestros compañeros que no pueden estar presentes, están escritas con el objetivo de ser fáciles y rápidas de leer, además de que en caso de que uno necesite encontrar una información específica, se pueda hacer rápido
  [Resumen del CMMI](/SextoSemestre.Apuntes%20Libro%20CMMI.md) | Es una de las herramientas que desarrollé con la intención de ayudar a que mis compañeros de equipo pudieran acercarse al CMMI de una forma rápida y sencilla. No intenta ser un reemplazo, pero sí apoyar a que los lectores tengan un mejor entendimiento de las áreas sin tener que invertir mucho tiempo en un libro que se me hizo lento de leer en muchas ocaciones.
  [Bitácora de actividades](/SextoSemestre.Bit%C3%A1cora%20de%20actividades.md) | Desde el inicio del semestre, he estado redactando una bitácora de actividades que me ha servido tanto para llevar un registro de mis aprendizajes en la forma de pequeñas reflexiones después de cada clase. Esta bitácora me ha enseñado que depender de la memoria siempre es un error y que tener un archivo donde todos mis conocimientos previos puedan encontrarse puede ser un salvavidas. Además de que las reflexiones que agrego al final de cada clase me apoyan a afianzar mis conocimientos de cada clase.
 
