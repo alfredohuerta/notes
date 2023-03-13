@@ -2,7 +2,7 @@
 id: e3ltz9jf8dt1002vgx3ad5y
 title: Reflexión y evidencias Periodo 1
 desc: 'Alumno Erick Alfredo García Huerta - A01708119'
-updated: 1678667258527
+updated: 1678667391096
 created: 1678471106321
 ---
 ## Erick Alfredo García Huerta - A01708119
@@ -54,7 +54,7 @@ Las estimaciones fueron otra de las actividades del área de requisitos en la qu
  ----|----
  [Definición de requisito objetivo del proyecto](https://docs.google.com/document/d/1FkV-xZ-sY4xmN3D1ipIwma0IQc3pZzCV/edit#heading=h.1t3h5sf) | Durante la reunión en la que teníamos que identificar el requisito objetivo del proyecto, fui yo el que creo la base en la que elaboraríamos más al momento de definir el requisito objetivo. Esto lo hice tomando en cuenta quiénes serían nuestros stakeholders, las necesidades de los mismos y cuál sería la mejor forma de aportarle valor a la empresa, así como reconociendo los procesos que se llevaban a cabo en ella y las áreas de oportunidades de los mismos para que se presentara una mejoría en el mediano plazo, teniendo en cuenta la naturaleza del proyecto que depende de la cantidad de datos que se le ofrezcan al programa.
  [Elaboración del detalle de las historias de usuario](https://docs.google.com/spreadsheets/d/1ijuDjWE1UxtgRoeekSNPiPbB5AByjpyzYiSnwvLzQ4Q/edit#gid=1894978090) | Una vez estuvieron definidas las historias de usuario, comencé a apoyar en la elaboración de los flujos normales y alternos de las historias de usuario, así como los pasos a seguir durante las mismas. Me apoyé de mis conocimientos y experiencias como escritor para realizar los flujos más representativos y concisos, esto con la idea de que cualquiera de mis compañeros pudiera tener una buena idea de las actividades de la historia de usuario con tan solo leerlas.
- [Asignación de complejidad a las historias de usuario]((https://docs.google.com/spreadsheets/d/1ijuDjWE1UxtgRoeekSNPiPbB5AByjpyzYiSnwvLzQ4Q/edit#gid=1894978090)) | Si bien fue una labor en equipo, participé en la asignación de complejidad de las historias de usuario. Para esto tomé en cuenta las actividades que presentaban situaciones en las que no me encontraba acostumbrado a estar, así como la longitud de las mismas y cuánto dependieran de la interconexión entre distintas áreas del proyecto.
+ [Asignación de complejidad a las historias de usuario](https://docs.google.com/spreadsheets/d/1ijuDjWE1UxtgRoeekSNPiPbB5AByjpyzYiSnwvLzQ4Q/edit#gid=1894978090) | Si bien fue una labor en equipo, participé en la asignación de complejidad de las historias de usuario. Para esto tomé en cuenta las actividades que presentaban situaciones en las que no me encontraba acostumbrado a estar, así como la longitud de las mismas y cuánto dependieran de la interconexión entre distintas áreas del proyecto.
  [Identificación de riesgos](https://docs.google.com/spreadsheets/d/1f3BQOKItZ1KHzMdbKvSrA0auMifAFjAvYuA8AYWhzbg/edit#gid=1635779277) | Esta actividad se llevó a cabo gracias a mis responsabilidades del área de gestión de riesgos, en la que basado en la información obtenida de los socio formadores, trabajé en identificar cuáles serían los mayores retos que tendría nuestra aplicación, así como charlar con mi equipo al respecto sobre cómo atacar dichos riesgos para que no se volvieran problemas en el desarrollo.
 
 ---
