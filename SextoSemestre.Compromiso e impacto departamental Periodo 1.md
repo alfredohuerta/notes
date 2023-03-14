@@ -8,6 +8,7 @@ created: 1678669387107
 #### Erick Alfredo García Huerta - A01708119
 
 #### [Bitácora de actividades](/SextoSemestre.Bit%C3%A1cora%20de%20actividades.md)
+###
 
 # Compromiso e impacto departamental
 Mis aportaciones a lo largo de estas semanas de proyecto han sido varias y significativas para su desarrollo, no sólo desde un punto de vista como miembro del equipo de RAM, sino desde un punto de vista de aportación departamental. Desde las primeras semanas de clase comencé a buscar formas en las que poder ayudar con la definición y alcance de nuestros objetivos como departamento Delta. De la misma forma mientras avanzaban las semanas, mi participación fue variando y diversificándose conforme nuevas oportunidades aparecían, ofreciendo mi experiencia en proyectos pasados de la carrera y conocimientos ganados durante mi trabajo en Natgas.
